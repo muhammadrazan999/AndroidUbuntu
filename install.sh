@@ -28,7 +28,7 @@
     	sleep 3
 	done
 	echo -e	"\033[1;32m Sukses Instalasi Bahan \033[0m"
-	./installubuntu20.sh
+	./install.sh
 
 	elif [ $pil = 2 ]; 
 		then 
