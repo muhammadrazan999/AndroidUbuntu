@@ -8,5 +8,5 @@ echo "" >> /var/lib/dpkg/info/udisks2.postinst
 sudo apt-mark hold udisks2
 echo " berhasil set dpkg konfigurasi "
 clear
-sudo apt install xfce4 xfce4-terminal xfce-whiskermenu-plugin
-sudo apt install firefox gedit vlc dbus-x11 xtigervnc-standalone-server
+sudo apt install xfce4 xfce4-terminal xfce4-whiskermenu-plugin
+sudo apt install firefox gedit vlc dbus-x11 tigervnc-standalone-server
